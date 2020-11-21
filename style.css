@@ -1,0 +1,15 @@
+.button {
+  text-align: center;
+}
+.badluckbutton {
+  width: 500px;
+  height: 250px;
+  font-size: 50px;
+}
+#tomrungunned {
+  width: 900px;
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+
+}
